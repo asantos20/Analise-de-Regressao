@@ -21,7 +21,6 @@ names(dados) ## variáveis
 x = dados$`Quilomentagem (1.000 km)` ## objeto X
 y = dados$`Preço de venda (Dezena de Euros)` ## objeto Y
 
-summary(x)
 ########################################################################
 ## Gráfico para análise a priori
 dados %>%
