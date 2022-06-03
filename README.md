@@ -1,3 +1,3 @@
 # Análise de Regressão R
- Repositório versionado para análise de regressão usando o R.
-- O programa funciona liso para qualquer base de dados que você tenha interesse em fazer um estudo de regressão linear. Basta apenas você se atentar a cada linha de comando.
+
+- Para essa análise foi realizado o tratamento, análise exploratória e a inferência dos dados. Seguindo o script, terá uma noção dos processos.
